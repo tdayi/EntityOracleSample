@@ -1,0 +1,15 @@
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityOracleSample.exe.config
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityOracleSample.exe
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityOracleSample.pdb
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityFramework.dll
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityFramework.xml
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\obj\Debug\EntityOracleSample.csprojResolveAssemblyReference.cache
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\obj\Debug\EntityOracleSample.csproj.CoreCompileInputs.cache
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\obj\Debug\EntityOracleSample.exe
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\obj\Debug\EntityOracleSample.pdb
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\obj\Debug\EntityOracleSample.Migrations.v100.resources
+D:\Tufan\Project\EntityOracleSample\EntityOracleSample\obj\Debug\EntityOracleSample.csproj.GenerateResource.Cache
